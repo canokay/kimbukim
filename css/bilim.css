@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+#kapayici_bilim{
+	width:100%;
+	}
+#sol_bilim{
+	width:20%; 
+	float:left;
+	padding-top:20px;
+	padding-bottom:20px;
+    background-color:#CCC;
+	}
+#bilim_resim{
+	width:300px;
+	height:450px;
+	background:#F9F;
+	margin:auto;
+	}		
+#sag_bilim{
+	width:80%;
+	float:left;
+	}	
+#bilim_isim{
+	width:90%;
+	margin:auto;
+	text-align:center;
+	font-size:36px;
+	}	
+#bilim_biyografi{
+	width:90%;
+	margin:auto;
+	hayatı
+	}	
+#bilim_kategori{
+	width:90%;
+	margin:auto;
+	}	
+#bilim_bulusları{
+	width:90%;
+	margin:auto;
+	}				

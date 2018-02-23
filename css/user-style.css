@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#FFFFFF;
+}
+
+#serch{
+	width:680px;
+	height:250px;
+	margin:150px auto;
+	box-sizing:border-box;
+}
+
+#logo{
+	width:285px;
+	height:100px;
+	margin:0px auto;
+	box-sizing:border-box;
+	background:url(../img/logo.png);
+}
+
+
+#left-bar{
+	width:300px;
+	height:auto;
+	z-index:5;
+	float:left;
+	position:fixed;
+	left:0;
+	top:0;
+	margin:0px;
+}
+
+#right-bar{
+	width:300px;
+	height:auto;
+	z-index:5;
+	float:right;
+	position:fixed;
+	right:0;
+	top:0;
+	margin:0px;
+}
+
+#alt-bar{
+	width:900px;
+	height:900px;
+	z-index:10;
+	position:absolute;
+	right:0;
+	bottom:0;	
+}
+.people{
+	width:5%;
+	height:5%;
+	background:#036;
+	box-sizing:border-box;
+	border-radius:100px;
+	float:left;
+	margin:5px;
+}
+
+#footer{
+	width:100%;
+	height:25px;
+	position:fixed;
+	bottom:0;
+	left:0;
+	background:#FF7241;
+	box-shadow:0px 0px 5px #aaa;
+	border-top:4px solid #FF6517;
+}
+
+#footer ul{
+	list-style-type:none;
+	float:right;
+}
+
+#footer ul li{
+	display:inline;
+}
+
+#footer ul li a{
+	color:#F0F0E1;
+	font-size:18px;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	padding:5px;
+	border-radius:20px;
+}
+
+#footer ul li a:hover{
+	color:#CCC;
+}
+
+#kayit{
+	width:950px;
+	height:410px;
+	margin:100px auto;
+	background:#099;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	}
+#resim{
+	width:40%;
+	height:auto;
+	}
