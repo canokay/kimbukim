@@ -1,5 +1,5 @@
 # kimbukim
-**2015 Yılı Lise Dönem Sonu projem.**
+**2015 Yılı Lise Dönem Sonu projem (Oluşturduğum ilk PHP Projesi) **
 
 ## Proje Amacı	
 Bilim insanlarının hayatını diğer sitelerden çok daha güzel bir şekilde göstermek.
